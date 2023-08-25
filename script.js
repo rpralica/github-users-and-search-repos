@@ -1,6 +1,6 @@
 'use strict';
 
-const accessToken = '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';
+const accessToken = 'Your token';
 const apiUrl = 'https://api.github.com';
 
 async function getGitUsers(user) {
